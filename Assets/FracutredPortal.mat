@@ -27,7 +27,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -52,12 +52,18 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: 0
+    - _Mattalic: 0
+    - _POwer: 22.13
+    - _Power: 3.8
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radius: 0
-    - _Radius_1: 1
+    - _Radius: 0.43
+    - _Radius_1: -29.15
+    - _Separation: 0.475
+    - _Smoothness: 0.22
     m_Colors:
     - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
-    - _InsideColor: {r: 12.528302, g: 3.841225, b: 3.841225, a: 0}
-    - _OutsideColor: {r: 0.25729796, g: 0.77544826, b: 0.9245283, a: 0}
+    - _CenterPositionWorldSApace: {r: 0, g: 0, b: 0, a: 0}
+    - _InsideColor: {r: 1.0943398, g: 3.4661403, b: 8, a: 0}
+    - _OutsideColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
