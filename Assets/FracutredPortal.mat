@@ -51,16 +51,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Explosion_Separation: 0
     - _Float: 0
-    - _Mattalic: 0
+    - _Mattalic: 0.083
     - _POwer: 22.13
-    - _Power: 3.8
+    - _Power: 3.43
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radius: 0.43
+    - _Radius: 0.71
     - _Radius_1: -29.15
-    - _Separation: 0.475
-    - _Smoothness: 0.22
+    - _RotationSpeed: 0
+    - _Separation: 0.054
+    - _SeparationDistance: 17.45
+    - _SeparationNormalized: 1
+    - _Smoothness: 0.128
     m_Colors:
     - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
     - _CenterPositionWorldSApace: {r: 0, g: 0, b: 0, a: 0}
