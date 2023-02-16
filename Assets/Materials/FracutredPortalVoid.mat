@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7974883785729579872
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FracutredPortalVoid
+  m_Shader: {fileID: 4800000, guid: ae8c2d1438c2fcd4cb60b378a854fcc9, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _EMISSION
+  - _SURFACE_TYPE_TRANSPARENT
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendOp: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+    - _Explosion_Separation: 0
+    - _Float: 0
+    - _Mattalic: 0
+    - _POwer: 22.13
+    - _Power: 1.9
+    - _QueueControl: 0
+    - _QueueOffset: -50
+    - _Radius: 0.85
+    - _Radius_1: -29.15
+    - _RotationSpeed: 0.14
+    - _SampleGI: 0
+    - _Separation: 0.054
+    - _SeparationDistance: 1.52
+    - _SeparationNormalized: 0.275
+    - _Smoothness: 1
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+    - _StencilID: 2
+    - _Surface: 1
+    - _ZWrite: 0
+    m_Colors:
+    - _BaseColor: {r: 0.8584906, g: 0, b: 0, a: 1}
+    - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _CenterPositionWorldSApace: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.8584906, g: 0, b: 0, a: 1}
+    - _InsideColor: {r: 0.36525735, g: 1.1568922, b: 2.6701567, a: 0}
+    - _OutsideColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
