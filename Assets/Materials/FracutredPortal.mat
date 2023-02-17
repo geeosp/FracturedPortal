@@ -30,7 +30,7 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3008
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -54,16 +54,17 @@ Material:
     - _Explosion_Separation: 0
     - _Float: 0
     - _Mattalic: 0
+    - _Mettalic: 0
     - _POwer: 22.13
-    - _Power: 1.2
-    - _QueueControl: 0
+    - _Power: 1.5
+    - _QueueControl: 1
     - _QueueOffset: 8
     - _Radius: 0.53
     - _Radius_1: -29.15
-    - _RotationSpeed: 1.83
+    - _RotationSpeed: 0.44
     - _Separation: 0.054
-    - _SeparationDistance: 1.29
-    - _SeparationNormalized: 0.842
+    - _SeparationDistance: 1.55
+    - _SeparationNormalized: 1
     - _Smoothness: 0
     m_Colors:
     - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
