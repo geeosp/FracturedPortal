@@ -53,22 +53,25 @@ Material:
     m_Floats:
     - _Explosion_Separation: 0
     - _Float: 0
+    - _InsideColorMultiplyier: 0.906
     - _Mattalic: 0
     - _Mettalic: 0
     - _POwer: 22.13
-    - _Power: 1.5
+    - _Power: 3.7
     - _QueueControl: 1
     - _QueueOffset: 8
-    - _Radius: 0.53
+    - _Radius: 0.46
     - _Radius_1: -29.15
+    - _Refraction: 0.1057
     - _RotationSpeed: 0.44
     - _Separation: 0.054
-    - _SeparationDistance: 1.55
-    - _SeparationNormalized: 1
-    - _Smoothness: 0
+    - _SeparationDistance: 3.67
+    - _SeparationNormalized: 0.3
+    - _Smoothness: 1.06
     m_Colors:
     - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
     - _CenterPositionWorldSApace: {r: 0, g: 0, b: 0, a: 0}
-    - _InsideColor: {r: 9.962264, g: 6.822433, b: 0, a: 0}
+    - _InsideColor: {r: 2.5095103, g: 1.9480127, b: 0.722076, a: 0}
+    - _InsideColorReflection: {r: 0.79294235, g: 0.92402244, b: 0.9716981, a: 0}
     - _OutsideColor: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
