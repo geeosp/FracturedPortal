@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Snow
+  m_Name: Sand
   m_Shader: {fileID: -6465566751694194690, guid: e4434278cfb077949b9b09ec5c064711,
     type: 3}
   m_Parent: {fileID: 0}
@@ -57,12 +57,12 @@ Material:
     - _MettalicBase: 0
     - _MettalicGlitter: 1
     - _NormalStrength: 1.76
-    - _QueueControl: 0
+    - _QueueControl: 1
     - _QueueOffset: 0
     - _SmoothnessBase: 0.472
     - _SmoothnessGlitter: 1
     m_Colors:
-    - _BaseColor: {r: 0.79716986, g: 1, b: 0.9600149, a: 0}
+    - _BaseColor: {r: 1, g: 0.7019608, b: 0, a: 0}
     - _MainTexTiling: {r: 35, g: 35, b: 0, a: 0}
     - _NormalTiling: {r: 20, g: 20, b: 0, a: 0}
   m_BuildTextureStacks: []

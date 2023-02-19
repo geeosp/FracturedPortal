@@ -57,16 +57,16 @@ Material:
     - _Mattalic: 0
     - _Mettalic: 0
     - _POwer: 22.13
-    - _Power: 3.7
+    - _Power: 5.84
     - _QueueControl: 1
     - _QueueOffset: 8
-    - _Radius: 0.46
+    - _Radius: 0.92
     - _Radius_1: -29.15
     - _Refraction: 0.1057
-    - _RotationSpeed: 0.44
+    - _RotationSpeed: 0
     - _Separation: 0.054
     - _SeparationDistance: 3.67
-    - _SeparationNormalized: 0.3
+    - _SeparationNormalized: 0.557
     - _Smoothness: 1.06
     m_Colors:
     - _CenterPosition: {r: 0, g: 0, b: 0, a: 0}
